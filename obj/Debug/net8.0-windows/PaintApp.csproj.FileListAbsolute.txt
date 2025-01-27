@@ -1,0 +1,17 @@
+C:\Users\saleh\Desktop\Codes\PaintApp\PaintApp\bin\Debug\net8.0-windows\PaintApp.exe
+C:\Users\saleh\Desktop\Codes\PaintApp\PaintApp\bin\Debug\net8.0-windows\PaintApp.deps.json
+C:\Users\saleh\Desktop\Codes\PaintApp\PaintApp\bin\Debug\net8.0-windows\PaintApp.runtimeconfig.json
+C:\Users\saleh\Desktop\Codes\PaintApp\PaintApp\bin\Debug\net8.0-windows\PaintApp.dll
+C:\Users\saleh\Desktop\Codes\PaintApp\PaintApp\bin\Debug\net8.0-windows\PaintApp.pdb
+C:\Users\saleh\Desktop\Codes\PaintApp\PaintApp\obj\Debug\net8.0-windows\PaintApp.Form1.resources
+C:\Users\saleh\Desktop\Codes\PaintApp\PaintApp\obj\Debug\net8.0-windows\PaintApp.csproj.GenerateResource.cache
+C:\Users\saleh\Desktop\Codes\PaintApp\PaintApp\obj\Debug\net8.0-windows\PaintApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saleh\Desktop\Codes\PaintApp\PaintApp\obj\Debug\net8.0-windows\PaintApp.AssemblyInfoInputs.cache
+C:\Users\saleh\Desktop\Codes\PaintApp\PaintApp\obj\Debug\net8.0-windows\PaintApp.AssemblyInfo.cs
+C:\Users\saleh\Desktop\Codes\PaintApp\PaintApp\obj\Debug\net8.0-windows\PaintApp.csproj.CoreCompileInputs.cache
+C:\Users\saleh\Desktop\Codes\PaintApp\PaintApp\obj\Debug\net8.0-windows\PaintApp.dll
+C:\Users\saleh\Desktop\Codes\PaintApp\PaintApp\obj\Debug\net8.0-windows\refint\PaintApp.dll
+C:\Users\saleh\Desktop\Codes\PaintApp\PaintApp\obj\Debug\net8.0-windows\PaintApp.pdb
+C:\Users\saleh\Desktop\Codes\PaintApp\PaintApp\obj\Debug\net8.0-windows\PaintApp.genruntimeconfig.cache
+C:\Users\saleh\Desktop\Codes\PaintApp\PaintApp\obj\Debug\net8.0-windows\ref\PaintApp.dll
+C:\Users\saleh\Desktop\Codes\PaintApp\PaintApp\obj\Debug\net8.0-windows\PaintApp.Properties.Resources.resources
