@@ -1,1 +1,1 @@
-Replicate oF Paint Application in Windows
+Replica oF Paint Application in Windows
